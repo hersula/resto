@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="RestoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="RestoConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RestoClientWin.My.MySettings.GlobalReference.Default.RestoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TrxOrderTable" msprop:Generator_TableClassName="TrxOrderTableDataTable" msprop:Generator_TableVarName="tableTrxOrderTable" msprop:Generator_RowChangedName="TrxOrderTableRowChanged" msprop:Generator_TablePropName="TrxOrderTable" msprop:Generator_RowDeletingName="TrxOrderTableRowDeleting" msprop:Generator_RowChangingName="TrxOrderTableRowChanging" msprop:Generator_RowEvHandlerName="TrxOrderTableRowChangeEventHandler" msprop:Generator_RowDeletedName="TrxOrderTableRowDeleted" msprop:Generator_RowClassName="TrxOrderTableRow" msprop:Generator_UserTableName="TrxOrderTable" msprop:Generator_RowEvArgName="TrxOrderTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="rowguid" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnrowguid" msprop:Generator_ColumnPropNameInRow="rowguid" msprop:Generator_ColumnPropNameInTable="rowguidColumn" msprop:Generator_UserColumnName="rowguid" type="xs:string" minOccurs="0" />
+              <xs:element name="CabangID" msprop:Generator_ColumnVarNameInTable="columnCabangID" msprop:Generator_ColumnPropNameInRow="CabangID" msprop:Generator_ColumnPropNameInTable="CabangIDColumn" msprop:Generator_UserColumnName="CabangID" type="xs:string" minOccurs="0" />
+              <xs:element name="Datapos" msprop:Generator_ColumnVarNameInTable="columnDatapos" msprop:Generator_ColumnPropNameInRow="Datapos" msprop:Generator_ColumnPropNameInTable="DataposColumn" msprop:Generator_UserColumnName="Datapos" type="xs:string" minOccurs="0" />
+              <xs:element name="ComputerID" msprop:Generator_ColumnVarNameInTable="columnComputerID" msprop:Generator_ColumnPropNameInRow="ComputerID" msprop:Generator_ColumnPropNameInTable="ComputerIDColumn" msprop:Generator_UserColumnName="ComputerID" type="xs:string" minOccurs="0" />
+              <xs:element name="trx_date" msprop:Generator_ColumnVarNameInTable="columntrx_date" msprop:Generator_ColumnPropNameInRow="trx_date" msprop:Generator_ColumnPropNameInTable="trx_dateColumn" msprop:Generator_UserColumnName="trx_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="table_number" msprop:Generator_ColumnVarNameInTable="columntable_number" msprop:Generator_ColumnPropNameInRow="table_number" msprop:Generator_ColumnPropNameInTable="table_numberColumn" msprop:Generator_UserColumnName="table_number" type="xs:string" minOccurs="0" />
+              <xs:element name="waiter_id" msprop:Generator_ColumnVarNameInTable="columnwaiter_id" msprop:Generator_ColumnPropNameInRow="waiter_id" msprop:Generator_ColumnPropNameInTable="waiter_idColumn" msprop:Generator_UserColumnName="waiter_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="customer" msprop:Generator_ColumnVarNameInTable="columncustomer" msprop:Generator_ColumnPropNameInRow="customer" msprop:Generator_ColumnPropNameInTable="customerColumn" msprop:Generator_UserColumnName="customer" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="itemQTY" msprop:Generator_ColumnVarNameInTable="columnitemQTY" msprop:Generator_ColumnPropNameInRow="itemQTY" msprop:Generator_ColumnPropNameInTable="itemQTYColumn" msprop:Generator_UserColumnName="itemQTY" type="xs:short" default="1" minOccurs="0" />
+              <xs:element name="Dine" msprop:Generator_ColumnVarNameInTable="columnDine" msprop:Generator_ColumnPropNameInRow="Dine" msprop:Generator_ColumnPropNameInTable="DineColumn" msprop:Generator_UserColumnName="Dine" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="menu_group_id" msprop:Generator_ColumnVarNameInTable="columnmenu_group_id" msprop:Generator_ColumnPropNameInRow="menu_group_id" msprop:Generator_ColumnPropNameInTable="menu_group_idColumn" msprop:Generator_UserColumnName="menu_group_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="menu_id" msprop:Generator_ColumnVarNameInTable="columnmenu_id" msprop:Generator_ColumnPropNameInRow="menu_id" msprop:Generator_ColumnPropNameInTable="menu_idColumn" msprop:Generator_UserColumnName="menu_id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="menu_name" msprop:Generator_ColumnVarNameInTable="columnmenu_name" msprop:Generator_ColumnPropNameInRow="menu_name" msprop:Generator_ColumnPropNameInTable="menu_nameColumn" msprop:Generator_UserColumnName="menu_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Catatan" msprop:Generator_ColumnVarNameInTable="columnCatatan" msprop:Generator_ColumnPropNameInRow="Catatan" msprop:Generator_ColumnPropNameInTable="CatatanColumn" msprop:Generator_UserColumnName="Catatan" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="posting" msprop:Generator_ColumnVarNameInTable="columnposting" msprop:Generator_ColumnPropNameInRow="posting" msprop:Generator_ColumnPropNameInTable="postingColumn" msprop:Generator_UserColumnName="posting" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="post_date" msprop:Generator_ColumnVarNameInTable="columnpost_date" msprop:Generator_ColumnPropNameInRow="post_date" msprop:Generator_ColumnPropNameInTable="post_dateColumn" msprop:Generator_UserColumnName="post_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="pairpac" msprop:Generator_ColumnVarNameInTable="columnpairpac" msprop:Generator_ColumnPropNameInRow="pairpac" msprop:Generator_ColumnPropNameInTable="pairpacColumn" msprop:Generator_UserColumnName="pairpac" type="xs:short" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:float" default="0" minOccurs="0" />
+              <xs:element name="TotalPrice" msprop:Generator_ColumnVarNameInTable="columnTotalPrice" msprop:Generator_ColumnPropNameInRow="TotalPrice" msprop:Generator_ColumnPropNameInTable="TotalPriceColumn" msprop:Generator_UserColumnName="TotalPrice" type="xs:float" default="0" minOccurs="0" />
+              <xs:element name="PersenDisc" msprop:Generator_ColumnVarNameInTable="columnPersenDisc" msprop:Generator_ColumnPropNameInRow="PersenDisc" msprop:Generator_ColumnPropNameInTable="PersenDiscColumn" msprop:Generator_UserColumnName="PersenDisc" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:float" default="0" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

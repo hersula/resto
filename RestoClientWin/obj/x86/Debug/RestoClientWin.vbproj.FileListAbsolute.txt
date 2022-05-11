@@ -1,0 +1,121 @@
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe.config
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.xml
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.pdb
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.pdb
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.xml
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v2.dll
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v2.dll
+E:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v2.xml
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbprojResolveAssemblyReference.cache
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Form1.resources
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmKeyboard.resources
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmOpenTable.resources
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Resources.resources
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbproj.GenerateResource.Cache
+E:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe.licenses
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe.config
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.pdb
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.xml
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Data.v3.dll
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.dll
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.dll
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.dll
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.xml
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.xml
+D:\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.xml
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Form1.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFlootEditLayout.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncBill.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncOthers.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncTable.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncVoid.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmKeyboard.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmLockedScreen.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMain.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMessage.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmNumPad.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmOpenTable.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidALL.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidQty.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Resources.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbproj.GenerateResource.Cache
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe.licenses
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.xml
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.pdb
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncKeeping.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoucher.resources
+D:\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncDiscount.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe.config
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.xml
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.pdb
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.pdb
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.xml
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Data.v3.dll
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.dll
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.dll
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.dll
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.xml
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.xml
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.xml
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbprojResolveAssemblyReference.cache
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Form1.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFlootEditLayout.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncBill.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncDiscount.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncKeeping.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncOthers.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncTable.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncVoid.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmKeyboard.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmLockedScreen.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMain.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMessage.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmNumPad.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmOpenTable.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidALL.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidQty.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoucher.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Resources.resources
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbproj.GenerateResource.Cache
+H:\Data Ronny On Drive D\Project\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe.licenses
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe.config
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.xml
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.pdb
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.exe
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.pdb
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\RestoClientWin.xml
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Data.v3.dll
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.dll
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.dll
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.dll
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.Common.v3.xml
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.GridEX.v3.xml
+D:\Works Area\RestoClientWin\RestoClientWin\bin\Debug\Janus.Windows.UI.v3.xml
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbprojResolveAssemblyReference.cache
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Form1.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFlootEditLayout.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncBill.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncDiscount.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncKeeping.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncOthers.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncTable.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmFuncVoid.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmKeyboard.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmLockedScreen.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMain.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmMessage.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmNumPad.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmOpenTable.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidALL.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoidQty.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.frmVoucher.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.Resources.resources
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.vbproj.GenerateResource.Cache
+D:\Works Area\RestoClientWin\RestoClientWin\obj\x86\Debug\RestoClientWin.exe.licenses
